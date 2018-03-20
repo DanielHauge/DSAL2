@@ -87,8 +87,6 @@ func SmallIfElse (Answers []bool)string{
 	} else {
 		return SuccedString()
 	}
-
-
 }
 
 
